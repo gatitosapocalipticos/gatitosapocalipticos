@@ -4,4 +4,6 @@
 <h1>
   <b> hola, soy ruth :P </b>
 </h1>
-<table> m </table>
+<table> 
+<thead> sobre mí </thead>
+</table>
