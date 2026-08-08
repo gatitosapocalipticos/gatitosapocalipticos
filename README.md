@@ -4,9 +4,9 @@
 <h1>
   <p align="Center"> hola, soy ruth :P </p>
 </h1>
-<p align="Center">
 <table> 
 <td>
+<p align="Center">
 bienvenido a mi zona donde encontrarás trabajos sobre mis diversos intereses (˶ᵔ ᵕ ᵔ˶) !!
  </td>
 </table>
