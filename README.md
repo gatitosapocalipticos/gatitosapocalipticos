@@ -8,5 +8,5 @@
 </table>
 <p align="Center"> conecta conmigo </p>
 <p align="center">
-  <img src="3e3d3c239d5c33635dcfd96f33777539.jpg"width="150" alt="Mi imagen"/>
+  <img src="3e3d3c239d5c33635dcfd96f33777539.jpg"width="100" alt="Mi imagen"/>
 </p>
