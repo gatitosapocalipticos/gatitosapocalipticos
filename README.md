@@ -1,2 +1,4 @@
 hola
-<img> https://share.google/VnmVUWCUcE4QTfZPc
+<p>
+<img src= "https://share.google/VnmVUWCUcE4QTfZPc">
+</p>
