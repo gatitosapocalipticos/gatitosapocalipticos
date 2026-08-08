@@ -8,5 +8,5 @@
 </table>
 <p align="Center"> conecta conmigo </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gatitosapocalipticos&theme=onedark&column=4"/>
+  <img src="3e3d3c239d5c33635dcfd96f33777539.jpg"/>
 </p>
