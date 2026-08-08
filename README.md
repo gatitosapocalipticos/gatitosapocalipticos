@@ -20,3 +20,14 @@ bienvenido a mi github donde encontrarás trabajos sobre mis diversos intereses 
 </p>
 <p align="Center">
 <img src="https://skillicons.dev/icons?i=html,cpp,github&perline=4" />
+<p>
+⊹
+⢠⡏⠉⠑⢄⠀ ⠀ ⡠⠋⠉⢱⡀
+⡇⠙⠒⠒⠬⡗⢒⢮⠄⠒⠒⠁⢣
+⠇⠀⠈⠁⢁⡷⠤⢮⠈⠁⠀⠀⡌
+⠘⢄⣀⡰⢻⠁⠀⠘⡕⢄⣀⡰⠁⠀⊹
+⠀⡎⠘⢀⠇⠀⠀⠀⢱⠈⠂⠡⠀
+⠀⠑⢄⡜⠢⡀⠀⢀⠔⠇⡴⠃⠀
+⠀⠀⠀⠑⠠⠚⠀⠓⠔⠋⠀⠀
+⊹
+</p>
