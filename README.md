@@ -16,6 +16,6 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,c++,github" />
+    <img src="https://skillicons.dev/icons?i=html,cpp,github,discord,Gmail, instagram,Roblox studio" />
   </a>
 </p>
