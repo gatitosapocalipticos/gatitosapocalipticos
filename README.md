@@ -14,3 +14,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/gatitosapocalipticos/gatitosapocalipticos/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+<p align="center">
+  <img src="https://github-profile-3d-contrib.puzzle3d.workers.dev/api?gatitosapocalipticos=gatitosapocalipticos&theme=dracula" width="100%" />
+</p>
