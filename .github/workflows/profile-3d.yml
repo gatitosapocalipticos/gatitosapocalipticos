@@ -5,13 +5,16 @@ on:
     - cron: "0 18 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-3d-contrib-graph
     steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi325/github-profile-3d-contrib@0.7.1
+      - uses: actions/checkout@v4
+      - uses: yoshi325/github-profile-3d-contrib@0.7.2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
@@ -22,4 +25,3 @@ jobs:
           git add -A .
           git commit -m "generated 3d contrib" || exit 0
           git push
-          
