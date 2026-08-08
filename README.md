@@ -6,4 +6,4 @@
 </h1>
 <table> 
 </table>
-<input type= "button"> <p> sobre mí</p>
+<p> sobre mí </p>
