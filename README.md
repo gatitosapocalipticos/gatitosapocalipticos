@@ -5,5 +5,5 @@
   <b> hola, soy ruth :P </b>
 </h1>
 <table> 
-<thead> sobre mí </thead>
 </table>
+<input type= "button" sobre mí 
