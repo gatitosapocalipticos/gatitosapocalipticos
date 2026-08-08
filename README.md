@@ -14,6 +14,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/gatitosapocalipticos/gatitosapocalipticos/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-<p align="center">
- <a href="[![My Skills](https://skillicons.dev/icons?i=js,html,cpp)](https://skillicons.dev)"
-</p>
+<img src="https://skillicons.dev/icons?i=html,cpp,js&perline=4" />
