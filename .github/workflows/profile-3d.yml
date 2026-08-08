@@ -26,3 +26,4 @@ jobs:
           if git commit -m "generated 3d contrib"; then
             git push
           fi
+          
