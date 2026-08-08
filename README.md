@@ -1,5 +1,5 @@
 <p>
-<img src= "header_20260808_153323_0000.png">
+<img src= "header_20260808_154932_0000.gif">
 </p>
 <h1>
   <stfrong> Hola, soy Ruth !! </stfrong>
