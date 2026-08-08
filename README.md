@@ -5,7 +5,7 @@
   <p align="Center"> hola, soy ruth :P </p>
 </h1>
 <table> 
-<tr> un poco sobre mí </tr>
+<th> un poco sobre mí </th>
 </table>
 <p align="Center"> conecta conmigo </p>
 <p align="center">
