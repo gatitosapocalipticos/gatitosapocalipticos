@@ -6,7 +6,7 @@
 </h1>
 <table> 
 <td>
-bienvenido, tengo 17 años
+bienvenido a mi zona donde encontrarás trabajos sobre mis diversos intereses !! 😛
  </td>
 </table>
 <p align="Center"> conecta conmigo </p>
