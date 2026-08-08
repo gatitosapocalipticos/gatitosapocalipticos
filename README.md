@@ -6,10 +6,7 @@
 </h1>
 <table> 
 <td>
-un poco sobre mí
-soy estudiante de bachillerato
-me gusta la tecnología 
-amante de la moda
+bienvenido, tengo 17 años
  </td>
 </table>
 <p align="Center"> conecta conmigo </p>
