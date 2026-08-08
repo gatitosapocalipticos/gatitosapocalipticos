@@ -6,8 +6,9 @@
 </h1>
 <table> 
 <td> 
-<tr> un poco sobre mí </tr>
-
+<tr>
+un poco sobre mí
+</tr>
  </td>
 </table>
 <p align="Center"> conecta conmigo </p>
