@@ -10,6 +10,7 @@
 bienvenido a mi github donde encontrarás trabajos sobre mis diversos intereses (˶ᵔ ᵕ ᵔ˶) !!
  </td>
 </table>
+<img src= "0e9ef67ce1906b8589cbb33bf3a73d7b.gif">
 <p align="Center"> conecta conmigo </p>
 <p align="center">
 <a href="https://www.instagram.com/silkyangelss?igsh=MXgyeGJvMXhybGQ2Yg==">
