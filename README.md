@@ -7,7 +7,8 @@
 <table> 
 <td>
 <p align="Center">
-bienvenido a mi github donde encontrarás trabajos sobre mis diversos intereses (˶ᵔ ᵕ ᵔ˶) !!
+bienvenido a mi github donde encontrarás trabajos sobre mis diversos intereses 
+  (˶ᵔ ᵕ ᵔ˶) !!
  </td>
 </table>
 <p>
