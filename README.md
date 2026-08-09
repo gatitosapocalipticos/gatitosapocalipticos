@@ -10,6 +10,7 @@
 bienvenido a mi github donde encontrarás trabajos sobre mis diversos intereses (˶ᵔ ᵕ ᵔ˶) !!
  </td>
 </table>
+< p align= "center">
 <p>
 <img src= "39f0d32ff891517a6f80cbe37dfa8e0b.gif">
 </p>
