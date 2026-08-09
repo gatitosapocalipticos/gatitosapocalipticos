@@ -11,7 +11,7 @@ bienvenido a mi github donde encontrarás trabajos sobre mis diversos intereses 
  </td>
 </table>
 <p>
-<img src= "0e9ef67ce1906b8589cbb33bf3a73d7b.gif">
+<img src= "39f0d32ff891517a6f80cbe37dfa8e0b.gif">
 </p>
 <p align="Center"> conecta conmigo </p>
 <p align="center">
